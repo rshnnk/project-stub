@@ -1,0 +1,15 @@
+.button
+{
+    color: #453400;
+    background: #fad73b;
+    border: none;
+    border-radius: 15px;
+    outline: none;
+    flex: 0 0 280px;
+    height: 45px;
+    padding: 0 50px;
+    display: block;
+    margin: 25px auto ;
+    font-size: 16px;
+    font-weight: bold;
+}

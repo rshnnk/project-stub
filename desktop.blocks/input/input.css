@@ -1,0 +1,14 @@
+.input{
+    width: 100%;
+}
+
+
+.input .input__control
+{
+    width: 94%;
+    height: 65px;
+    border: 1px solid #ddd;
+    display: block;
+    margin: 30px auto 0;
+    text-align: center;
+}

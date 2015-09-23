@@ -1,0 +1,21 @@
+.head .layout
+{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.layout__logo{
+    flex: 0 0 125px;
+    border-radius: 50% ;
+    overflow: hidden;
+    z-index: 1;
+    max-height: 125px;
+
+}
+
+.image{
+    max-width: 100%;
+    height: auto;
+    transform: scale(1.5);
+}

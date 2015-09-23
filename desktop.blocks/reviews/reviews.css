@@ -1,0 +1,32 @@
+.reviews
+{
+    float: left;
+    padding: 25px 20px;
+}
+
+
+.reviews-head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.reviews-head .left, .reviews-head .right {
+    display: flex;
+    flex-direction: row;
+}
+
+.left__all-reviews{
+    text-decoration: underline;
+    color: #1e537f;
+    cursor: pointer;
+}
+
+.left__last-reviews{
+    padding-right: 10px;
+    font-weight: bold;
+}
+
+.right__comments{
+    padding-left: 10px;
+}
